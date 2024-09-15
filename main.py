@@ -8,7 +8,7 @@ print(hi)
 # Welcome the user
 print("Welcome to the chatbot!")
 
-Collect the user’s name and age
+#Collect the user’s name and age
 name = input("What is your name? ")
 print(f"Hello, {name}!")
 # Ask the user how it can help them
