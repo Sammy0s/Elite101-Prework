@@ -1,4 +1,4 @@
 print("Hello")
 hi = input("Hello! ")
-clear
+print(hi)
 
